@@ -1,2 +1,6 @@
 asset 'angular'
 asset 'bootstrap-sass-official'
+<<<<<<< HEAD
+# vim: ft=ruby
+=======
+>>>>>>> e25c93f559904a2aad69397a8bbf0676ece43892

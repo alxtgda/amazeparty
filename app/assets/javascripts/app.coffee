@@ -1,0 +1,1 @@
+amazehome = angular.module('amazehome',[])
